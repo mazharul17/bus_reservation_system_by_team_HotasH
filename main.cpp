@@ -24,6 +24,7 @@ int main(){
     cout << "\t\t\t\t\t||       BUS RESERVATION SYSTEM PROJECT       ||\n";
     cout << "\t\t\t\t\t||                                            ||\n";
     cout << "\t\t\t\t\t||                 DEVELOPED BY               ||\n";
+    cout << "\t\t\t\t\t||                                            ||\n";
     cout << "\t\t\t\t\t||                 TEAM_HotasH                ||\n";
     cout << "\t\t\t\t\t================================================\n\n\n";
 
